@@ -15,7 +15,7 @@
 ## 安装
 
 ```bash
-git clone https://github.com/<lyh>/fmcw-range-tool.git
+git clone https://github.com/l540261329-lab/fmcw-range-tool.git
 cd fmcw-range-tool
 ```
 
